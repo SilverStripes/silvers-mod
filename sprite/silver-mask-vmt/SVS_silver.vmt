@@ -1,5 +1,5 @@
 "VertexlitGeneric"
 {
-	$basetexture "sprite/silver-mask-vmt/SVS_silver"
-	$translucent 1
+	$basetexture "https://github.com/SilverStripes/silvers-mod/blob/main/sprite/silver-mask-vmt/SVS_silver.vtf?raw=true"
+	$alphatest 1
 }
