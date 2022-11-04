@@ -1,6 +1,4 @@
-# Blender 3.3.1
-# www.blender.org
-mtllib bree.mtl
+# mtllib bree.mtl
 o rdmobj02.001
 v -0.122260 -0.468224 0.051709
 v -0.053711 -0.461595 0.092078

@@ -1,6 +1,4 @@
-# Blender 3.3.1
-# www.blender.org
-mtllib Bree.mtl
+# mtllib Bree.mtl
 o Body__mBody
 v 0.309676 3.577994 -0.303322
 v 0.263336 3.609792 -0.264908
